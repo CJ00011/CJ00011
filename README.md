@@ -1,16 +1,15 @@
-### Hi there 👋
+### BOAS VINDAS AO MEU PERFIL!!!🤎
 
-<!--
-**CJ00011/CJ00011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É GIOVANY 
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagenm javascript
+- utilizo esse espaço para a minha organizaçao e compartilhamento do meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você entrar em contato comigo📫
+
+- 00001111270144Sp@al.educacao.sp.gov.br
+  
+- @CJ00011
+
+![](https://media1.tenor.com/m/tFpWz9SmQP8AAAAC/yami-black-clover.gif)
